@@ -20,7 +20,6 @@ Il prezzo è stato convertito in NT$/m².
 - Target:
   - `Y house price per m2` -> prezzo al metro quadro dell'abitazione, espresso in dollari taiwanesi.
 
-
 ### Come Eseguire l'Applicazione
 1. Scaricare il progetto
 2. Installare le librerie necessarie per far girare l'app visibili nel file requirements.txt 
